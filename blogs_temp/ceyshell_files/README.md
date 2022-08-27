@@ -17,7 +17,7 @@ g++ ceyshell5.cpp -o ceyshell && ./ceyshell
 
 ### Functionality
 
-![image](sss/shell_demo.png)
+![image](sss/shell-demo.png)
 v
 * Supports following built-in commands
     * cd \<dir>  : to change the present working directory
