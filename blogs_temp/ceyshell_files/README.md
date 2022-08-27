@@ -18,7 +18,7 @@ g++ ceyshell5.cpp -o ceyshell && ./ceyshell
 ### Functionality
 
 ![image](sss/shell-demo.png)
-v
+* This basic shell facilitates execution of all external commands, and provides all internal commands as mentioned in the assignment. 
 * Supports following built-in commands
     * cd \<dir>  : to change the present working directory
     * history [n] : returns previous [n] commands executed
@@ -26,6 +26,7 @@ v
     * exit
 * Supports foreground and background processes
 * It also supports command concatenation using `&&`
+* Runs in both batch and interactive mode
 
 ### Limitations
 * executing `cd` without the following argument does not change the PWD to /home
