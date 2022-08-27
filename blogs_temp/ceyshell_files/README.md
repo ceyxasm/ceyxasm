@@ -16,6 +16,9 @@ g++ ceyshell5.cpp -o ceyshell && ./ceyshell
 ---
 
 ### Functionality
+
+<img src="ceyshell_files/sss/shell_demo.png">
+
 * Supports following built-in commands
     * cd \<dir>  : to change the present working directory
     * history [n] : returns previous [n] commands executed
