@@ -16,6 +16,8 @@ g++ ceyshell5.cpp -o ceyshell && ./ceyshell
 ---
 
 ### Functionality
+
+<img src="sss/shell-demo.png"></img>
 * Facilitates execution of all external commands and **all the internal commands mentioned in the assignment**
 * Supports following built-in commands
     * cd \<dir>  : to change the present working directory
