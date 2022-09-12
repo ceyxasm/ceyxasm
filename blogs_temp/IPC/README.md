@@ -56,8 +56,15 @@ Internally,
 * MXMNERR: Max in less than min [terminate game]
 
 
-
-
+___
+#### References
+* [asprintf](http://www.crasseux.com/books/ctutorial/asprintf.html#:~:text=The%20asprintf%20\(mnemonic%3A%20%22allocating,not%20including%20the%20terminating%20null.)
+* [IPC using message queues](https://www.geeksforgeeks.org/ipc-using-message-queues/)
+* [exec](https://www.geeksforgeeks.org/exec-family-of-functions-in-c/)
+* [ftok()](https://man7.org/linux/man-pages/man3/ftok.3.html)
+* [msgsnd](https://man7.org/linux/man-pages/man3/msgsnd.3p.html)
+* [msgrcv](https://pubs.opengroup.org/onlinepubs/7908799/xsh/msgrcv.html)
+* [msgget](https://man7.org/linux/man-pages/man2/msgget.2.html)
 
 
 
