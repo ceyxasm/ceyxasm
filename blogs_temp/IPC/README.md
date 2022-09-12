@@ -1,6 +1,8 @@
 # Operating Systems
 ## Abu Shahid (B20CS003)
 ## Lab~2
+
+View this README file live at [here](https://github.com/ceyxasm/ceyxasm/tree/main/blogs_temp/IPC)
 ___
 #### Question 1
 For demonstration purposes, you may edit the input.txt file.
