@@ -3,8 +3,8 @@
 <h3 align="center">Pre-final year undergrad in CSE @IIT Jodhpur</h3>
 <p align="center">
   <a href="https://ceyblogs.netlify.app/">Blog</a> •
-  <a href="https://ceyxasm.github.io/ceyxasm/">Portfolio</a>
-  <a href="https://www.instagram.com/ceyxasm/">Instagram</a>
+  <a href="https://ceyxasm.github.io/ceyxasm/">Portfolio</a> •
+  <a href="https://www.instagram.com/ceyxasm/">Instagram</a> •
   <a href="https://www.linkedin.com/in/abu-shahid-6b15781b8/">Linkedin</a>
 </p>
 
