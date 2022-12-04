@@ -19,6 +19,7 @@
 
 **📝 Latest Blog Posts**
 - [How to blog?](https://ceyblogs.netlify.app/how-to-blog)
+- [Detroit: Become Human & the Inheritance of Humanity](https://ceyblogs.netlify.app/dbh)
 
 
 
