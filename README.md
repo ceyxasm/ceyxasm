@@ -11,7 +11,7 @@
 
 - 🔭 Keenly interested in AI & Physics, Cybersecurity & Arts. 
 - 🌱 I love to read. Say hi on [Goodreads](https://www.goodreads.com/user/show/150110911-ceyxasm)
-- 💬 Currently working on [IndicOCR](https://ceyxasm.github.io/auto_grader/)
+- 💬 Currently working on [Writer Verification](https://ceyxasm.github.io/WVSite/)
 - 📫 I like abstract photography. Check me [out](https://www.instagram.com/ceyxasm/)
 - ⚡ I write occasionally [here](https://ceyblogs.netlify.app/)
 
