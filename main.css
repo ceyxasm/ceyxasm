@@ -62,12 +62,23 @@ template {
 }
 
 a {
-    background-color: transparent
+    /* background-color: black */
+    /* color: #ff0060 */
+    color: black
 }
+
+a:before {
+    /* background-color: black */
+    /* color: #ff0060 */
+    color: black
+}
+
+
 
 a:active,
 a:hover {
-    outline: 0
+    outline: 0;
+    color: #ff0060
 }
 
 abbr[title] {
