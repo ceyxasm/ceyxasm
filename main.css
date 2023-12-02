@@ -67,13 +67,6 @@ a {
     color: black
 }
 
-a:before {
-    /* background-color: black */
-    /* color: #ff0060 */
-    color: black
-}
-
-
 
 a:active,
 a:hover {
