@@ -19,6 +19,5 @@
 - [Detroit: Become Human & the Inheritance of Humanity](https://ceyxasm.github.io/ceyxasm/blogs/detroit-become-human.html)
 
 
-
       
 
