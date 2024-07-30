@@ -1,0 +1,14 @@
+- [ ] Migrate? old? blogs? to? MD??
+- [ ] Modularize digester code
+- [ ] Test code for
+    - [ ] Code blocks
+    - [ ] Links
+- [ ] Add support for related blogs section
+- [ ] GPT integration??
+- [ ] Exclusive content via encryption??
+- [ ] Automatic table of contents for longer posts
+- [ ] Connect subscription/signup to custom tags
+- [ ] Social sharing buttons
+- [ ] Integrate heatmaps and analytics
+- [ ] Lazy loading and WCAG guidelines
+- [ ] $????Hmmmm
