@@ -1,6 +1,6 @@
 ---
-title: Target
-author: ceyxasm
+title: Blog Title
+author: Author Name
 ---
 
 {{card}}

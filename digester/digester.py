@@ -1,11 +1,16 @@
 import markdown
 from jinja2 import Environment, FileSystemLoader
 import yaml
+import argparse
+
+parser = argparse.ArgumentParser(description="A simple example")
+parser.add_argument('--md', help="Your name")
+args = parser.parse_args()
 
 env = Environment(loader=FileSystemLoader('.'))
 template = env.get_template('template.html')
 
-with open('blog_post.md', 'r', encoding='utf-8') as f:
+with open( args.md, 'r', encoding='utf-8') as f:
     content = f.read()
 
 split_content = content.split('---')
@@ -26,19 +31,17 @@ def process_custom_tags(html_content):
         html_content = html_content.replace(f'{{{{{tag}}}}}', replacement)
     return html_content
 
-# Convert Markdown content to HTML
+
 html_content = markdown.markdown(md_content, extensions=['extra', 'smarty', 'sane_lists'])
 
-# Process custom tags in the HTML content
 processed_html_content = process_custom_tags(html_content)
 
-# Render the HTML with the template
 rendered_html = template.render(
     title=metadata['title'],
     author=metadata['author'],
     content=processed_html_content
 )
 
-# Save the rendered HTML to a file
-with open('output.html', 'w', encoding='utf-8') as f:
+save_name = metadata['title'].lower().replace( ' ', '-') + '.html'
+with open(save_name, 'w', encoding='utf-8') as f:
     f.write(rendered_html)

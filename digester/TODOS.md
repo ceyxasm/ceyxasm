@@ -1,5 +1,5 @@
-- [ ] Migrate? old? blogs? to? MD??
-- [ ] Modularize digester code
+- [x] Migrate? old? blogs? to? MD??
+- [x] Modularize digester code
 - [ ] Test code for
     - [ ] Code blocks
     - [ ] Links
@@ -9,6 +9,6 @@
 - [ ] Automatic table of contents for longer posts
 - [ ] Connect subscription/signup to custom tags
 - [ ] Social sharing buttons
-- [ ] Integrate heatmaps and analytics
+- [x] Integrate heatmaps and analytics
 - [ ] Lazy loading and WCAG guidelines
 - [ ] $????Hmmmm
