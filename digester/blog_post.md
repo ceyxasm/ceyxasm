@@ -17,6 +17,36 @@ author: Author Name
 {{/card}}
 
 {{card}}
+    <h2>Checking code blocks</h2>
+    {{col-12}}
+        Lets install the required libraries
+            {{code}} pip install pandas, numpy  {{/code}}
+        Now let us import and work with them:
+{{code}}import pandas as pd
+import numpy as np
+df = pd.read_csv('test.csv')
+df.head
+for i in range(10):
+    print(f'2 * {i} = {2*i})            {{/code}}
+    {{/col}}
+{{/card}}
+
+{{card}}
+<h2>Checking links</h2>
+{{col-12}}
+
+- [this is a link to an image online](https://imgs.search.brave.com/-MLiGchwEDBCBoDZkQpeizvyViR_fJZ6gC9CiUEV-LA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/Y2F0LXBob3RvLWhk/LmpwZz93aWR0aD0x/MDAwJmZvcm1hdD1w/anBnJmV4aWY9MCZp/cHRjPTA)
+
+- [local image](../assets/images/2022-books/book_1.jpg)
+
+- [local text](../README.md)
+
+- [alien site](https://analytics.google.com/analytics/web/?authuser=2#/p452255690/reports/reportinghub)
+{{/col}}
+{{/card}}
+
+
+{{card}}
     {{col-12}}
     <p> **1. Sapiens by Yuval Noah Harari** stands out as a truly exceptional and insightful read, making it one of the highlights of the year. The book's exploration of evolution, religion, and societal concepts was masterfully done, providing a simplified yet profoundly valid perspective. What set it apart was its ability to engage without ever becoming tedious. The author's approach, treating the reader as knowledgeable and understanding, rather than assuming ignorance, added a layer of enjoyment. Overall a compelling candidate for a second read. <br><br>
     **2. Kane & Abel by Jeffery Archer** is storytelling at its best. The author's ability to weave a gripping tale is unparalleled. The closing sentence, just eight words, hit hard and made me relive the entire book. The story follows two men, each with their own ideals, whose paths cross over 60+ years. If only...<br>

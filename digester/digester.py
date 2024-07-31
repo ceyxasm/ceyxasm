@@ -20,6 +20,8 @@ md_content = split_content[2]
 card_open = '<div class="card"><div class="card-block"><div class="row">'
 card_close = '</div></div></div>'
 col_close = '</div>'
+code_on = '<pre class="col-md-offset-1"><code>'
+code_off = '</code></pre>'
 
 def process_custom_tags(html_content):
     col_mapping = {f'col-{i}': f'<div class="col-md-{i}" style="font-size: 24px;" >' for i in range(1, 13)}
@@ -27,6 +29,8 @@ def process_custom_tags(html_content):
     html_content = html_content.replace('{{card}}', card_open)
     html_content = html_content.replace('{{/card}}', card_close)
     html_content = html_content.replace('{{/col}}', col_close)
+    html_content = html_content.replace('{{code}}', code_on)
+    html_content = html_content.replace('{{/code}}', code_off)
     for tag, replacement in col_mapping.items():
         html_content = html_content.replace(f'{{{{{tag}}}}}', replacement)
     return html_content

@@ -1,9 +1,12 @@
 - [x] Migrate? old? blogs? to? MD??
 - [x] Modularize digester code
-- [ ] Test code for
-    - [ ] Code blocks
-    - [ ] Links
+- [x] Test code for
+    - [x] Code blocks
+        - [ ] Copy snippet
+        - [ ] Syntax formatting
+    - [x] Links
 - [ ] Add support for related blogs section
+    - [ ] De-clutering index.html
 - [ ] GPT integration??
 - [ ] Exclusive content via encryption??
 - [ ] Automatic table of contents for longer posts
