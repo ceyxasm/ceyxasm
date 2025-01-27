@@ -11,7 +11,7 @@
     - [ ] De-clutering index.html
 - [ ] GPT integration??
 	- [ ] Add a chatBot
-	- [ [  Add a S2T
+	- [ ]  Add a S2T
 - [ ] Exclusive content via encryption??
 - [ ] Automatic table of contents for longer posts
 - [ ] Connect subscription/signup to custom tags
@@ -19,3 +19,8 @@
 - [x] Integrate heatmaps and analytics
 - [ ] Lazy loading and WCAG guidelines
 - [ ] $????Hmmmm
+
+================================================================
+UPCOMING BLOGS:
+1. Why I do not believe in God
+2. My Manifesto
