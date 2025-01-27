@@ -15,7 +15,7 @@
 -------
 
 **📝 Latest Blog Posts**
-- [2023 in Books](https://ceyxasm.github.io/ceyxasm/blogs/2023-books.html)
+- [2023 in Books](https://ceyxasm.github.io/ceyxasm/blogs/2024-reading-recap.html)
 - [Detroit: Become Human & the Inheritance of Humanity](https://ceyxasm.github.io/ceyxasm/blogs/detroit-become-human.html)
 
 
